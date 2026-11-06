@@ -1,3 +1,8 @@
+> **foxnaim** · Биржа, не обновляется
+>
+> Готовая основа под клиентский проект. Стек: HTML.
+> Лицензия Apache-2.0 сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 ![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
 
 <h3 align="center">
